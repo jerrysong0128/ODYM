@@ -53,4 +53,4 @@ ODYM MFA models can handle any depth of flow and stock specification: products, 
 ## Folder structure of the ODYM repo
 The folder structure of the ODYM repository is shown in the figure below. It shows the main module files, the tutorials with related material, and the unit tests. 
 
-![ODYM directory tree](https://github.com/IndEcol/ODYM/blob/master/docs/Images/ODYM_DirectoryTree.png "ODYM directory tree")
+![ODYM directory tree](./docs/Images/ODYM_DirectoryTree.png "ODYM directory tree")
